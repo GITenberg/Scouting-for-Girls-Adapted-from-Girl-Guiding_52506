@@ -1,0 +1,32 @@
+_repo: Scouting-for-Girls-Adapted-from-Girl-Guiding_52506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
+    aliases:
+    - Baden-Powell, Robert
+    - Baden-Powell, R. S. S.
+    - Baden-Powell, Baron Robert Stephenson Smyth
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '2144'
+    url: http://www.gutenberg.org/2009/agents/2144
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell
+description: ''
+gutenberg_issued: '2016-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52506'
+  lccn: '18021177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Girl Scouts'
+- GITenberg
+title: 'Scouting for Girls
+
+  Adapted from Girl Guiding'
+url: http://www.gutenberg.org/ebooks/52506
